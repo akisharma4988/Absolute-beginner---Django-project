@@ -1,4 +1,4 @@
-# Absolute-beginner---Django-project
+# Absolute-beginner---Mini-Django-projects
 its a series of few django project, not for a advance.
 
 Points to Remember
